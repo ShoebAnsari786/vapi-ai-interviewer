@@ -1,0 +1,1 @@
+export const VAPI_API_KEY = import.meta.env.VITE_VAPI_WEB_TOKEN;
